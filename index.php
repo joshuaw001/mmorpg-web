@@ -12,7 +12,7 @@
     </canvas>
     <script src="js1_config.js"></script>
     <?php
-      $SESSION["js_CONNECT"] = 
+      $SESSION["js_CONNECT"] = "NaN";
     ?>
   </body>
 </html>
